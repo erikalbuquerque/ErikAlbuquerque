@@ -1,11 +1,12 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/erikalbuquerque/ErikAlbuquerque/blob/master/react.png">
 
 
 # Érik Albuquerque
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação e ajudar pessoas.
-<br/> Sou um FullStack Developer :computer:
+:computer: Sou um FullStack Developer
+
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end, Back-End e Mobile com ReactJS e React Native.
  
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript.
