@@ -8,7 +8,7 @@ Sou apaixonado por resolver problemas utilizando a programação e ajudar pessoa
 
 :computer: Sou um FullStack Developer
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end, Back-End e Mobile com ReactJS e React Native.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end, Back-End e Mobile com NodeJS, ReactJS e React Native.
  
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript.
  
