@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/erikalbuquerque/ErikAlbuquerque/blob/master/banner.jpeg">
+<!-- <img width="auto" src="https://github.com/erikalbuquerque/ErikAlbuquerque/blob/master/banner.jpeg"> -->
 
 
 # Érik Albuquerque
