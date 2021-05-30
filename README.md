@@ -6,11 +6,11 @@
 ## Hi pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação e ajudar pessoas.
 
-:computer: Sou um FullStack Developer
+:computer: Sou um Desenvoledor Front-end
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end, Back-End e Mobile com NodeJS, ReactJS e React Native.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Mobile com ReactJS e React Native.
  
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & Typescript.
  
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LoL, RPG em geral, seriados, amo músicas elétronica e um cafézinho não pode faltar.
  
