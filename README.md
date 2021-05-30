@@ -3,8 +3,7 @@
 
 # Érik Albuquerque
 
-## Hi pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação e ajudar pessoas.
+Sou apaixonado em criar coisas novas com programação.
 
 :computer: Sou um Desenvoledor Front-end
 
