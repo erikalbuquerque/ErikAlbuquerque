@@ -1,12 +1,11 @@
 <h1>Hi, I'm Érik 👻</h1>
 
-<p>Currently focused on front-end development.</p>
+<left>
+  <p>Currently focused on front-end development.</p>
+  <p>Looking to collaborate with Front-end projects with ReactJS.</p>
+</left>
 
-<p>Looking to collaborate with Front-end projects with ReactJS.</p>
-
-<hr>
-
- <left>
+<left>
   <h3>Technologies</h3>
   <a href="https://www.javascript.com">
       <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -19,14 +18,13 @@
   </a>
  </left>
 
- <hr />
+ <br />
+ <br />
  
  <left>
   <p>🙋‍♂️ About me: I like technologies, LoL, RPG in general, series, I love electronic music and a cup of coffee I can't miss.
   </p>
  </left>
-
- <hr />
 
 <left>
   <h4>You can find me around here:</h4>
