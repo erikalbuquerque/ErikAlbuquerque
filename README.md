@@ -1,4 +1,4 @@
-<h1>Hi, I'm Érik 👻</h1>
+<h1>Hi, my name is Erik and I'm 21 years old 👻</h1>
 
 <left>
   <p>Currently focused on front-end development.</p>
@@ -36,6 +36,9 @@
 </a>
 <a href="https://www.instagram.com/albuquerik">
 <img height="20px" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://app.rocketseat.com.br/me/erik-albuquerque">
+<img height="20px" src="https://img.shields.io/badge/Rocketseat-8257E6?&style=for-the-badge&logo=apacherocketmq&logoColor=white">
 </a>
 
 </left>
