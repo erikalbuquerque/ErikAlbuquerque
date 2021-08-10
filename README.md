@@ -2,7 +2,7 @@
 
 <left>
   <p>Currently focused on front-end development.</p>
-  <p>Looking to collaborate with Front-end projects with ReactJS.</p>
+  <p>Looking to collaborate on front-end projects with ReactJS and NextJs.</p>
 </left>
 
 <left>
