@@ -22,7 +22,7 @@
  <br />
  
  <left>
-  <p>🙋‍♂️ About me: I like technologies, LoL, RPG in general, series, I love electronic music and a cup of coffee I can't miss.
+  <p>🙋‍♂️ About me: I like technology, LoL, RPGs in general, series, I love electronic music and a mug of coffee that I can't miss.
   </p>
  </left>
 
