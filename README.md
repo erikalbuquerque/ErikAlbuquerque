@@ -1,4 +1,4 @@
-<h1>Hi, my name is Erik and I'm 21 years old 👻</h1>
+<h1>Hi, my name is Erik and I'm 22 years old 👻</h1>
 
 <left>
   <p>Currently focused on front-end development.</p>
