@@ -1,8 +1,7 @@
-<h1>Hi, my name is Erik and I'm 22 years old 👻</h1>
+## Hi, i'm Erik 👽
 
 <left>
-  <p>Currently focused on front-end development.</p>
-  <p>Looking to collaborate on front-end projects with ReactJS and NextJs.</p>
+  <p>I am a front-end developer, using and studying ReactJs and NextJs.</p>
 </left>
 
 <left>
@@ -22,7 +21,7 @@
  <br />
  
  <left>
-  <p>🙋‍♂️ About me: I like technology, LoL, RPGs in general, series, I love electronic music and a mug of coffee that I can't miss.
+  <p>🙋‍♂️ About me: I like technology, animals, games, series, I love electronic music and a mug of coffee that I can't miss.
   </p>
  </left>
 
@@ -42,3 +41,7 @@
 </a>
 
 </left>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikalbuquerque&layout=compact&theme=dark" />
+</a>
