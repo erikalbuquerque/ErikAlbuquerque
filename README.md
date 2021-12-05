@@ -1,10 +1,10 @@
 <h1 align="center">Hi, i'm Erik 👽</h1>
 
-<left>
+<div>
   <p>I am a front-end developer, using and studying ReactJs and NextJs.</p>
-</left>
+</div>
 
-<left>
+<div>
   <h3>Technologies</h3>
   <a href="https://www.javascript.com">
       <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -12,20 +12,40 @@
     <a href="https://www.typescriptlang.org">
       <img height="20px" src="https://img.shields.io/badge/Typescript-0077B5?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img height="20px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+   <a href="https://sass-lang.com/">
+      <img height="20px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+      <img height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  </a>
   <a href="https://reactjs.org">
       <img height="20px" src="https://img.shields.io/badge/React-1DA1F2?style=for-the-badge&logo=React&logoColor=white">
   </a>
- </left>
+  
+  <a href="https://nextjs.org/">
+      <img height="20px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
+  
+ </div>
+ 
+ <div>
+  <h3>IDE</h3>
+  <a href="https://code.visualstudio.com/">
+    <img height="20px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+ </div>
 
- <br />
  <br />
  
- <left>
+ <div>
   <p>🙋‍♂️ About me: I like technology, animals, games, series, I love electronic music and a mug of coffee that I can't miss.
   </p>
- </left>
+ </div>
 
-<left>
+<div>
   <h4>You can find me around here:</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-albuquerque/)](https://www.linkedin.com/in/erik-albuquerque/)
@@ -40,7 +60,7 @@
 <img height="20px" src="https://img.shields.io/badge/Rocketseat-8257E6?&style=for-the-badge&logo=apacherocketmq&logoColor=white">
 </a>
 
-</left>
+</div>
 
 <div>
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=erikalbuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
