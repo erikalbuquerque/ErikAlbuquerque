@@ -1,11 +1,11 @@
-<h1 align="center">Hi, i'm Erik 👽</h1>
+<h1 align="center">Olá, eu sou o Érik.</h1>
 
 <div>
-  <p>I am a front-end developer, using and studying ReactJs and NextJs.</p>
+  <p>Sou um desenvolvedor Front-end, utilizando e estudando ReactJs e NextJs.</p>
 </div>
 
 <div>
-  <h3>Technologies</h3>
+  <h3>Tecnologias</h3>
   <a href="https://www.javascript.com">
       <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
@@ -41,12 +41,12 @@
  <br />
  
  <div>
-  <p>🙋‍♂️ About me: I like technology, animals, games, series, I love electronic music and a mug of coffee that I can't miss.
+  <p>🙋‍♂️: Gosto de tecnologia, animais, jogos, séries, adoro música eletrônica e uma xícara de café não pode faltar.
   </p>
  </div>
 
 <div>
-  <h4>You can find me around here:</h4>
+  <h4>Você pode me encontrar por aqui:</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-albuquerque/)](https://www.linkedin.com/in/erik-albuquerque/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erik.albuquerque.oficial@gmail.com)](mailto:erik.albuquerque.oficial@gmail.com)
